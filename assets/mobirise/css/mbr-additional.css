@@ -1120,6 +1120,7 @@ section.lazy-placeholder:after {
 .cid-rQqBnc0xfN {
   padding-top: 105px;
   padding-bottom: 90px;
+  background-image: url("../../../assets/images/mbr-1572x911.jpg");
 }
 .cid-rQqBnc0xfN h2 {
   text-align: center;
@@ -1193,6 +1194,121 @@ section.lazy-placeholder:after {
 }
 .cid-rQqBnc0xfN .mbr-section-text {
   color: #232323;
+}
+.cid-rQqBnc0xfN .mbr-section-text P {
+  text-align: right;
+}
+.cid-rQqYY2wApU {
+  padding-top: 135px;
+  padding-bottom: 135px;
+  background-image: url("../../../assets/images/gfasdfasd-1.jpeg");
+}
+.cid-rQqYY2wApU .card-img {
+  background-color: #fff;
+}
+.cid-rQqYY2wApU .card-box {
+  padding: 2rem;
+  background-color: #dab70f;
+}
+.cid-rQqYY2wApU h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-rQqYY2wApU p {
+  text-align: left;
+}
+.cid-rQqYY2wApU .mbr-text {
+  color: #767676;
+}
+.cid-rQqYY2wApU .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-rQqYY2wApU .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-rQqYY2wApU .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+    -webkit-flex: 0 0 20%;
+  }
+}
+.cid-rQqYY2wApU .card-title {
+  text-align: center;
+}
+.cid-rQqYZCi1Tw {
+  padding-top: 135px;
+  padding-bottom: 135px;
+  background-image: url("../../../assets/images/mbr-1572x911.jpg");
+}
+.cid-rQqYZCi1Tw .card-img {
+  background-color: #fff;
+}
+.cid-rQqYZCi1Tw .card-box {
+  padding: 2rem;
+  background-color: #dab70f;
+}
+.cid-rQqYZCi1Tw h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-rQqYZCi1Tw p {
+  text-align: left;
+}
+.cid-rQqYZCi1Tw .mbr-text {
+  color: #767676;
+}
+.cid-rQqYZCi1Tw .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-rQqYZCi1Tw .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-rQqYZCi1Tw .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+    -webkit-flex: 0 0 20%;
+  }
+}
+.cid-rQqYZCi1Tw .card-title {
+  text-align: center;
+}
+.cid-rQqZrPUChC .google-map {
+  height: 25rem;
+  position: relative;
+}
+.cid-rQqZrPUChC .google-map iframe {
+  height: 100%;
+  width: 100%;
+}
+.cid-rQqZrPUChC .google-map [data-state-details] {
+  color: #6b6763;
+  font-family: Montserrat;
+  height: 1.5em;
+  margin-top: -0.75em;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  width: 100%;
+}
+.cid-rQqZrPUChC .google-map[data-state] {
+  background: #e9e5dc;
+}
+.cid-rQqZrPUChC .google-map[data-state="loading"] [data-state-details] {
+  display: none;
 }
 .cid-rQqD3QANHZ {
   padding-top: 60px;
@@ -1616,7 +1732,7 @@ section.lazy-placeholder:after {
 .cid-rQpMdjkaQX {
   padding-top: 120px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/gfasdfasd-1668x516.jpg");
+  background-image: url("../../../assets/images/mbr-1572x911.jpg");
 }
 .cid-rQpMdjkaQX .mbr-iconfont {
   font-size: 48px;
@@ -1712,12 +1828,12 @@ section.lazy-placeholder:after {
 }
 .cid-rQnbEo16Uv .navbar {
   padding: .5rem 0;
-  background: #232323;
+  background: #333333;
   transition: none;
   min-height: 77px;
 }
 .cid-rQnbEo16Uv .navbar-dropdown.bg-color.transparent.opened {
-  background: #232323;
+  background: #333333;
 }
 .cid-rQnbEo16Uv a {
   font-style: normal;
@@ -1808,7 +1924,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-rQnbEo16Uv .dropdown .dropdown-menu {
-  background: #232323;
+  background: #333333;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1959,7 +2075,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 1024px) {
   .cid-rQnbEo16Uv .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 5.4rem);
+    max-height: calc(98.5vh - 5.3rem);
   }
 }
 .cid-rQnbEo16Uv .collapsed button.navbar-toggler {
