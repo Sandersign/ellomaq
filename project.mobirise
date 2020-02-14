@@ -50,7 +50,7 @@
     "versionPublish": "4.12.0",
     "imageResize": false,
     "screenshot": "screenshot.png",
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/23783823-171036793484329-3480741187742441410-o-2.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
