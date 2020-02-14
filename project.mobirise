@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ello Máquinas",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -62,7 +62,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "&gt;Home",
+        "title": "Home",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -903,7 +903,7 @@
     },
     "page2.html": {
       "settings": {
-        "title": "&gt;Localização",
+        "title": "Localização",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -1526,7 +1526,7 @@
     },
     "page3.html": {
       "settings": {
-        "title": "&gt;Serviços",
+        "title": "Serviços",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -2305,7 +2305,7 @@
     },
     "page4.html": {
       "settings": {
-        "title": "&gt;Locações",
+        "title": "Locações",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -2888,7 +2888,7 @@
     },
     "page1.html": {
       "settings": {
-        "title": "&amp;gt;Empresa",
+        "title": "Empresa",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -3477,7 +3477,7 @@
     "page5.html": {
       "settings": {
         "meta_descr": "Website Generator Description",
-        "title": "&gt;Produtos",
+        "title": "Produtos",
         "order": 8
       },
       "components": [
